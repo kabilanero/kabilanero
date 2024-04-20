@@ -1,9 +1,7 @@
-### Hi there 👋
+###                              Hello (⓿_⓿)😎 Folks Cheer-up with Me👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+freelancer;i'm+fullstack+web+developer;I'm+content+writer)](https://git.io/typing-svg)
 
-**kabilanero/kabilanero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&random=false&width=435&lines=I+am+a+Web-developer)](https://git.io/typing-svg)
