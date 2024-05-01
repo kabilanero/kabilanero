@@ -44,11 +44,11 @@
     <td>https://github.com/kabilanero/TODO-APP.git</td>
     </tr>
     <tr>
-    <td>REgister -form using firebase</td>
+    <td>Register -form using firebase</td>
     <td>https://github.com/kabilanero/Register-form.git</td>
     </tr>
     <tr>
-      <td>memory game by react</td>
+      <td>Memory game by react</td>
       <td>https://kabilanero.github.io/Memorygame/</td>
     </tr>
     <tr>
