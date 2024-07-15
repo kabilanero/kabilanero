@@ -48,7 +48,7 @@
     <td>https://github.com/kabilanero/Register-form.git</td>
     </tr>
     <tr>
-      <td>Memory game by react</td>
+      <td>Memory game by React.js</td>
       <td>https://kabilanero.github.io/Memorygame/</td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@
       <td> https://kabilanero.github.io/weatherapp/</td>
     </tr>
     <tr>
-      <td>Zomato Cone</td>
+      <td>Zomato Clone</td>
       <td>https://kabilanero.github.io/JK-zomato/</td>
     </tr>
   </table>
