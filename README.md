@@ -56,8 +56,8 @@
       <td> https://kabilanero.github.io/weatherapp/</td>
     </tr>
     <tr>
-      <td>Zomato Clone</td>
-      <td>https://kabilanero.github.io/JK-zomato/</td>
+      <td>Npm Library Published</td>
+      <td>https://www.npmjs.com/package/express-dev-logger</td>
     </tr>
   </table>
 
